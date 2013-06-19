@@ -2,11 +2,6 @@
 
 class CompaniesHouseApi
 {
-		
-	public function __construct()
-	{
-		parent::__construct();
-	}
 	
 	public function search($int)
 	{
